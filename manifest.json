@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Impf checker",
+    "description": "Verfügbarkeitsprüfer für impfterminservice.de",
+    "version": "1.0",
+    "content_scripts": [
+        {
+          "matches": ["*://*.impfterminservice.de/impftermine/service?*"],
+          "js": ["main.js"]
+        }
+      ],
+      "icons": {
+        "16": "vaccination16.png",
+        "48": "vaccination48.png",
+        "128": "vaccination128.png"
+      }
+  }
