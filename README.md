@@ -8,9 +8,11 @@ Autorefresher Chrome Extension for "impfterminservice.de/impftermine".
 
 
 ## Installation:
-1. Turn on Chrome developer options 
-2. Navigate type in URL: *chrome://extensions/*
-3. Press in top left *Load unpacked extension*; *Entpackte Erweiterung laden*
-4. Ready
+1. Download ZIP file and unzip it
+2. Turn on Chrome developer options 
+3. Navigate type in URL: *chrome://extensions/*
+4. Press in top left *Load unpacked extension*; *Entpackte Erweiterung laden*
+5. Select the unziped folder
+6. Ready
 
 **To deaktivate the Extension remove it or turn it off on chrome://extensions/**
