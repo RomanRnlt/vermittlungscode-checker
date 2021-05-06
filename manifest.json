@@ -5,7 +5,7 @@
     "version": "1.0",
     "content_scripts": [
         {
-          "matches": ["*://*.impfterminservice.de/impftermine/service?*"],
+          "matches": ["*://*.impfterminservice.de/impftermine/service*"],
           "js": ["main.js"]
         }
       ],
